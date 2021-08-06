@@ -3,6 +3,7 @@
 import sys
 import random
 import array
+import pyperclip
 
 # maximum length of password needed
 # this can be changed to suit your password length
@@ -53,4 +54,7 @@ elif MAX_LEN.isdigit():
 
             genPassword = genPassword + x
 
-        print(genPassword)
+
+        pyperclip.copy(genPassword)
+
+        print('generated password added to clipboard')
