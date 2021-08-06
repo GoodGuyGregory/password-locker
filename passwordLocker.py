@@ -4,7 +4,7 @@
 import sys
 import pyperclip
 PASSWORDS = {'email': 'F7min1BDDuvMJuxESSKHFhTxFtjVB6',
-             'blog': 'VmaLvQyKAxiVH5G8v01if1MLZ3sdt', 'luggage': '12345'}
+             'blog': 'VmaLvQyKAxiVH5G8v01if1MLZ3sdt', 'bike-lock': '12345'}
 
 if len(sys.argv) < 2:
     print('Usage: python passwordLocker.py [account] - copy account password')
