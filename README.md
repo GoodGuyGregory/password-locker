@@ -12,6 +12,6 @@ In order to make your python programs executables you will need to add the appro
 
 ## Password Generation
 
-python program used to generate the merseean twister random number generator. password length can be specified by the input from the user
+python program used to generate the mersenne twister random number generator. password length can be specified by the input from the user
 
 In order to make your python programs executables you will need to add the appropriate *shebang line* (`#!`) and change the permissions of the program file with the `chmod +x <pythonScript>.py` to make them runable exectuables by changing into the folder with the script and using `./<pythonScript>.py`
