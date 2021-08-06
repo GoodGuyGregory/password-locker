@@ -9,3 +9,9 @@ In order to make your python programs executables you will need to add the appro
 python program used to test your proposed passwords from your clipboard 
 
 In order to make your python programs executables you will need to add the appropriate *shebang line* (`#!`) and change the permissions of the program file with the `chmod +x <pythonScript>.py` to make them runable exectuables by changing into the folder with the script and using `./<pythonScript>.py`
+
+## Password Generation
+
+python program used to generate the merseean twister random number generator. password length can be specified by the input from the user
+
+In order to make your python programs executables you will need to add the appropriate *shebang line* (`#!`) and change the permissions of the program file with the `chmod +x <pythonScript>.py` to make them runable exectuables by changing into the folder with the script and using `./<pythonScript>.py`
